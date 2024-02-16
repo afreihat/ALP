@@ -1,5 +1,5 @@
 ALP (an Arabic Linguistic Pipeline) is an entirely new linguistic pipeline for natural language processing of text in Modern Standard Arabic. It solves common NLP operations of word tokenization, 
-POS tagging, base chunking, and named entity recognition as a single sequence labeling task.
+POS tagging, lemmatization, and base chunking, and named entity recognition as a single sequence labeling task.
 To read more about ALP:
 
 [ALP: an Arabic Linguistic Pipeline](https://www.researchgate.net/publication/333507946_ALP_an_Arabic_Linguistic_Pipeline)
