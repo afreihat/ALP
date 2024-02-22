@@ -1,0 +1,28 @@
+
+1. تشغيل السيرفس : java -jar ALPService.jar
+2. عن طريق الرابر
+
+
+
+python.exe ALPDemo\ALPClient.py -tIn "POS ذهب الولد إلى المدرسة"
+
+python.exe ALPDemo\ALPClient.py -tIn "TOK ذهب الولد إلى المدرسة"
+
+python.exe ALPDemo\ALPClient.py -tIn "NER ولد محمد أحمد في مدينة الرياض"
+
+python.exe ALPDemo\ALPClient.py -tIn "POS_TOK ولد محمد أحمد في مدينة الرياض"
+
+لاغلاق السيرفس
+
+python.exe ALPDemo\ALPClient.py -tIn exit
+
+
+ للملفات
+"POS_FIL  SRC TRGT"
+"LEM_FIL  SRC TRGT"
+
+مثلا
+
+python.exe .\ALPDemo\ALPClient.py -tIn "LEM_FIL test.txt test.out.txt"
+
+الرجاء مراسلتي في حال واجهتم صعوبة في تشغيل الأداة
