@@ -80,9 +80,6 @@ public class AlpService {
                             result = alp.tokenize(alpQuery).replace(" ", "#");;
                             output.writeObject(encode(result));
                         } else {
-							/*
-							ringing fading after ethics lower edited geometry toilet wiring etiquette eclipse fancy otherwise lottery honked unmask initiate pruned offend onto torch tepid hiker ingested tepid
-							*/
 
                              // LEMMATIZATION :
                             // setting the boolean option to true will show the lemmas of relevant tokens 
